@@ -1,0 +1,14 @@
+import turtle
+ turtle.bgcolor("black")
+ turtle.speed(1)
+ turtle.penup()
+ turtle.goto(0,-100)
+ turtle.color("red")
+ turtle.pendown()
+ turtle.goto(-100,0)
+ turtle.color("blue")
+ turtle.penup
+ turtle.goto(-100,-100)
+ turtle.color("yellow")
+ turtle.pendown()
+ turtle.goto(0,-100)
